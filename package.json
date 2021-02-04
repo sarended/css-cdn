@@ -1,0 +1,14 @@
+{
+  "name": "t2b-css",
+  "version": "1.0.0",
+  "description": "t2b css cdn",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch main.scss:main.min.css --style compressed --update"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.32.0"
+  }
+}
